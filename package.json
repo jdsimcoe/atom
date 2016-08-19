@@ -1,7 +1,7 @@
 {
   "name": "grayula-theme",
   "theme": "syntax",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "A dark gray Dracula theme for Atom",
   "repository": "https://github.com/jdsimcoe/grayula",
   "license": "MIT",
